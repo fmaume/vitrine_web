@@ -18,8 +18,8 @@ Automatically connect with your leads on social media.
 
 ### Marketing hack
 Use some automation to get a hedge against your competitors.
-- Get easily listing of relevant Facebook 
-- Get easily listing of relevant LinkedIn groups
+- Easily get easily listing of relevant Facebook 
+- Easily get listing of relevant LinkedIn groups
 - Identify influencers thanks to data mining on Twitter & Quora.
 - Identify medium blog in your niche
 - Get tailor target audience
