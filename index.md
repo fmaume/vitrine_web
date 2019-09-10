@@ -4,7 +4,7 @@ You don't whant to get lost in tatics?
 
 ### Lead generation
 - Stop copy pasting
-- Automatically scrap contact from online database
+- Automatically scrap contacts from online database
 
 ### Lead scoring
 
@@ -18,8 +18,8 @@ Automatically connect with your leads on social media.
 
 ### Marketing hack
 Use some automation to get a hedge against your competitors.
-- Easily get easily listing of relevant Facebook 
+- Easily get listing of relevant Facebook 
 - Easily get listing of relevant LinkedIn groups
 - Identify influencers thanks to data mining on Twitter & Quora.
 - Identify medium blog in your niche
-- Get tailor target audience
+- Get tailored target audience
