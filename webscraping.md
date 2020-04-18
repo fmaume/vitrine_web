@@ -1,3 +1,4 @@
+[Sales enablement](index.md) ° [Data mining](webscraping.md) ° [Service package](package.md) ° [Blog](blog.md) ° [About me](https://www.linkedin.com/in/fabian-maume-409b1830/?locale=en_US)
 ---
 title: Webscraping & data mining
 ---
@@ -10,7 +11,7 @@ Why would you keep copy pasting in 2020? Webscraping and automation allow to ret
 
 I can help you retrieve information from any website. This will save you considerable time, and provide you with more information to take proper decision.
 
-If you are interested in saving time: Let's get in touch
+If you are interested in saving time: [Let's get in touch](https://calendly.com/growth-hack/)
 
 ## Get help leveraging you data
 If you need help with data-analysis, just ask! I have wide experience using python to mine data and get relevant inside out of it. 
