@@ -13,7 +13,7 @@ I can help you retrieve information from any website. This will save you conside
 
 If you are interested in saving time: [Let's get in touch](https://calendly.com/growth-hack/)
 
-## Get help leveraging you data
+## Get help leveraging your data
 If you need help with data-analysis, just ask! I have wide experience using python to mine data and get relevant inside out of it. 
 I can also help you makes sense of your webanalytics data using Google analytics, Amplitude or Mixpanel.
 
