@@ -1,8 +1,13 @@
-[About me](about.md)
+[Sales enablement](index.md) ° [Data mining](webscraping.md) ° [Service package](package.md) ° [Blog](blog.md) ° [About me](https://www.linkedin.com/in/fabian-maume-409b1830/?locale=en_US)
 
-### Growth Hacking audit & project management
-You don't whant to get lost in tatics? 
-[Let's get in toutch.](https://www.linkedin.com/in/fabian-maume-409b1830/?locale=en_US)
+---
+title: Sales enablement
+---
+
+Sales enablement
+=====
+
+Automation enable your sales team to save considerable among of time and focus on what matter: getting more deals.
 
 ### Lead generation
 -  Stop copy pasting
@@ -17,11 +22,3 @@ You don't whant to get lost in tatics?
 Automatically connect with your leads on social media. 
 -  Automatically follow leads on Linkedin
 -  Send automated contact request
-
-### Marketing hack
-Use some automation to get a hedge against your competitors.
--  Easily get listing of relevant Facebook 
--  Easily get listing of relevant LinkedIn groups
--  Identify influencers thanks to data mining on Twitter & Quora.
--  Identify medium blog in your niche
--  Get tailored target audience
