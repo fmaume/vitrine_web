@@ -2,7 +2,7 @@
 title: Growth Hacking Blog
 ---
 
-## [Sales enablement](index.md) ° [Data mining](webscraping.md) ° [Service package](package.md) ° [Blog](blog.md) ° [About me](https://www.linkedin.com/in/fabian-maume-409b1830/?locale=en_US)
+[Sales enablement](index.md) ° [Data mining](webscraping.md) ° [Service package](package.md) ° [Blog](blog.md) ° [About me](https://www.linkedin.com/in/fabian-maume-409b1830/?locale=en_US)
 
 
 
