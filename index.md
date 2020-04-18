@@ -1,4 +1,4 @@
-[About me]("page1.html")
+[About me](about.md)
 
 ### Growth Hacking audit & project management
 You don't whant to get lost in tatics? 
