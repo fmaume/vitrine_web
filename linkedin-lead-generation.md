@@ -2,12 +2,10 @@
 title: Linkedin lead generation automation
 ---
 
-Linkedin lead generation automation
-
 =====
 
 
-# What you will be able to do:
+# Linkedin lead generation automation
 Linkedin can be a powerful channel for cold outreach. It is usually less saturated channel and can therefore provide a greater response rate. Also it is easier to get peoples’ linkedin profile urls than email addresses. Furthermore with tool like [phantombuster](https://phantombuster.com/?referral=fmc-f8VgvF4) you can automated your linkedin outreach.
 I can help you setup the following outreach process
 ![image.png](https://cdn.steemitimages.com/DQmQjk5auQtjq9vKKLVWcDiyKjaHqLX8ZgjjdjuKN4rUmTb/image.png)
