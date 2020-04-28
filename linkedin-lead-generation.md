@@ -20,7 +20,7 @@ On top of that I will provide you with a google doc dashboard displaying in real
 
 I can also help you prepare a list of relevant leads, there are plenty of script for that.
 
-In case you are interested you can schedule a call [there](https://calendly.com/growth-hack/). If you feel confident setting up the automation on your own : [here](https://steemit.com/linkedin/@growth-hack/automated-outreach-workflow-for-linkedin) is the how to article.
+In case you are interested you can schedule a call [there](https://calendly.com/growth-hack/). If you feel confident setting up the automation on your own : [here](https://medium.com/@fabianm.consulting/automated-outreach-workflow-for-linkedin-bc5a33982210) is the how to article.
 
 
 
